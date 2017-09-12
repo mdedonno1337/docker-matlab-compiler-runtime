@@ -1,0 +1,3 @@
+destinationFolder=/usr/local/MATLAB_Runtime/
+agreeToLicense=yes
+mode=silent
